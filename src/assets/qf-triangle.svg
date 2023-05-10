@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="569px" height="195px" viewBox="0 0 569 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>区分</title>
+    <defs>
+        <linearGradient x1="100%" y1="53.042557%" x2="6.75881795%" y2="53.042557%" id="linearGradient-1">
+            <stop stop-color="#FFEAA4" offset="0%"></stop>
+            <stop stop-color="#FFEAA4" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.898903918" opacity="0.300000012">
+        <g id="系统画像" transform="translate(-641.000000, -468.000000)" fill="url(#linearGradient-1)">
+            <g id="环形" transform="translate(599.560571, -27.000000)">
+                <g id="矩形备份-29" transform="translate(0.000000, 473.588144)">
+                    <path d="M119.610517,23.3841874 L609.604425,122.299856 L609.604425,122.299856 L116.159578,214.591652 C63.7524012,224.393665 13.3218888,189.855354 3.51987629,137.448177 C2.33054938,131.089354 1.78340111,124.627085 1.88668211,118.158819 C2.75332019,63.8831513 47.4549916,20.5865779 101.73066,21.4532159 C107.737098,21.5491228 113.722097,22.1954849 119.610517,23.3841874 Z" id="区分"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

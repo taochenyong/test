@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>重保检查-灰</title>
+    <defs>
+        <linearGradient x1="37.0353377%" y1="135.400194%" x2="52.8844356%" y2="-25.8473754%" id="linearGradient-1">
+            <stop stop-color="#5F5F5F" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.30740539%" y1="57.6274506%" x2="100%" y2="11.2793436%" id="linearGradient-2">
+            <stop stop-color="#5F5F5F" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="62.218978%" y1="-8.41417947%" x2="40.8693026%" y2="95.0951313%" id="linearGradient-3">
+            <stop stop-color="#E7E7E7" offset="0%"></stop>
+            <stop stop-color="#AFAFAF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.8117548%" y1="84.9071438%" x2="87.9639418%" y2="44.2771931%" id="linearGradient-4">
+            <stop stop-color="#5F5F5F" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.0587086%" y1="100%" x2="59.3399527%" y2="-22.8178856%" id="linearGradient-5">
+            <stop stop-color="#5F5F5F" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="127.151318%" y1="164.948194%" x2="209.9096%" y2="-454.306498%" id="linearGradient-6">
+            <stop stop-color="#5F5F5F" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-18.0245794%" y1="132.672476%" x2="43.5041876%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#5F5F5F" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="155.21843%" y1="40.7318484%" x2="-98.3549595%" y2="405.669456%" id="linearGradient-8">
+            <stop stop-color="#E7E7E7" offset="0%"></stop>
+            <stop stop-color="#AFAFAF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-45.0022024%" y1="138.829098%" x2="127.151318%" y2="47.4665493%" id="linearGradient-9">
+            <stop stop-color="#5F5F5F" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="336.637473%" x2="318.915034%" y2="-38.0971737%" id="linearGradient-10">
+            <stop stop-color="#5F5F5F" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-68" transform="translate(8.000000, 0.000000)">
+            <g id="编组" transform="translate(0.000000, 3.804777)" fill-rule="nonzero">
+                <polygon id="Fill-1" fill="url(#linearGradient-1)" points="31.1329751 35.3533955 25.5728905 33.8940131 25.599131 4.64771969 31.1592156 6.10614075"></polygon>
+                <polygon id="Fill-3" fill="url(#linearGradient-2)" points="8.40640864 41.5545211 2.84632403 40.0951387 25.5725989 33.8942053 31.1326835 35.3535878"></polygon>
+                <path d="M31.1329751,35.3533955 L31.1592156,6.10614075 L8.43294077,12.3080354 L8.40670021,41.5543288 L31.1329751,35.3533955 L31.1329751,35.3533955 Z M5.59410016,9.21045295 L34,1.45880561 L33.9659845,38.4442483 L5.56008461,46.1949343 L5.59410016,9.21045295 Z" id="Fill-5" fill="url(#linearGradient-3)"></path>
+                <polygon id="Fill-7" fill="url(#linearGradient-4)" points="5.5938086 9.21006839 0.0337239881 7.75164733 28.4396238 -1.36621027e-14 33.9997084 1.45842106"></polygon>
+                <polygon id="Fill-9" fill="url(#linearGradient-5)" points="5.56008461 46.1952227 0 44.7358402 0.0330436771 7.75135892 5.59410016 9.20977998"></polygon>
+            </g>
+            <g id="编组" transform="translate(14.317145, 15.853431)">
+                <polygon id="Fill-11" fill="#949494" points="12.9031672 1.4585172 15.4737709 4.27152974 8.13418706 16.300379 5.55969586 16.8281793 5.56261148 13.4796754"></polygon>
+                <polygon id="Fill-13" fill="url(#linearGradient-6)" fill-rule="nonzero" points="5.56008461 16.8284678 -6.90557198e-15 15.3690853 0.00291561857 12.0215427 5.56300023 13.4799638"></polygon>
+                <polygon id="Fill-15" fill="url(#linearGradient-7)" fill-rule="nonzero" points="5.56290304 13.4795792 0.00281843128 12.0211582 7.34337411 1.36621027e-14 12.9034587 1.45842106"></polygon>
+            </g>
+            <g id="编组" transform="translate(10.069866, 0.000000)" fill-rule="nonzero">
+                <polygon id="Fill-17" fill="url(#linearGradient-8)" points="5.56348617 3.92725776 14.6125943 1.45842106 14.6087068 5.33087988 5.56057055 7.80067797"></polygon>
+                <polygon id="Fill-19" fill="url(#linearGradient-9)" points="5.56348617 3.92725776 0.003401555 2.4688367 9.05250972 0 14.6125943 1.45842106"></polygon>
+                <polygon id="Fill-21" fill="url(#linearGradient-10)" points="5.56008461 7.80048569 0 6.34206463 0.00388749142 2.46864443 5.56300023 3.92706549"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

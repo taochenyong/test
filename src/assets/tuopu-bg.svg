@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1040px" height="1031px" viewBox="0 0 1040 1031" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tuopu-底</title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
+            <stop stop-color="#02204B" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#052B50" stop-opacity="0.20422894" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-2" cx="519" cy="519" r="519"></circle>
+        <filter x="-0.6%" y="-0.6%" width="101.3%" height="101.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="6" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.17961128   0 0 0 0 0.64704102   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-4" cx="519" cy="519" r="404"></circle>
+        <filter x="-0.7%" y="-0.7%" width="101.4%" height="101.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.361852134   0 0 0 0 0.805364901   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-6">
+            <stop stop-color="#007F96" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#053D40" stop-opacity="0.20422894" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-7" cx="519" cy="519" r="275"></circle>
+        <filter x="-1.2%" y="-1.2%" width="102.4%" height="102.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="6" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0823529412   0 0 0 0 0.709803922   0 0 0 0 0.898039216  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-9" cx="519" cy="519" r="144.476615"></circle>
+        <filter x="-2.1%" y="-2.1%" width="104.2%" height="104.2%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.352941176   0 0 0 0 0.741176471   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="系统画像" transform="translate(-689.000000, -49.000000)">
+            <g id="环形" transform="translate(599.560571, -27.000000)">
+                <g id="tuopu-底" transform="translate(90.439429, 77.000000)">
+                    <g id="椭圆形" opacity="0.404134115">
+                        <use fill-opacity="0.898903918" fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use stroke="#114293" stroke-width="1.155902" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="椭圆形" opacity="0.26">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <circle stroke-opacity="0.8" stroke="#33B4FF" stroke-width="128" stroke-linejoin="square" cx="519" cy="519" r="340"></circle>
+                        <use stroke="#15B5E5" stroke-width="1" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="椭圆形" opacity="0.8">
+                        <use fill-opacity="0.898903918" fill="url(#radialGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use stroke="#15B5E5" stroke-width="1.11788618" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="椭圆形" opacity="0.6">
+                        <use fill-opacity="0.612407124" fill="#009BB0" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use stroke="#5ABDFF" stroke-width="2" xlink:href="#path-9"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

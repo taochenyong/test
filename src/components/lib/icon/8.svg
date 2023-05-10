@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>脆弱性</title>
+    <defs>
+        <linearGradient x1="11.4229914%" y1="100.007454%" x2="76.2900294%" y2="46.4991078%" id="linearGradient-1">
+            <stop stop-color="#003B7C" offset="0%"></stop>
+            <stop stop-color="#4EA2FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="60.2567012%" y1="0%" x2="39.7320303%" y2="102.086028%" id="linearGradient-2">
+            <stop stop-color="#C3EEFF" offset="0%"></stop>
+            <stop stop-color="#25A8FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="179.015926%" x2="102.074506%" y2="-21.2195411%" id="linearGradient-3">
+            <stop stop-color="#003B7C" offset="0%"></stop>
+            <stop stop-color="#4EA2FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="127.038154%" y2="-149.100854%" id="linearGradient-4">
+            <stop stop-color="#003B7C" offset="0%"></stop>
+            <stop stop-color="#4EA2FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-115" transform="translate(3.000000, 1.000000)">
+            <polygon id="Fill-1" fill="#FFEAA4" points="32.6588667 26.90374 25.0581874 24.9547698 25.0238244 18.9456239 32.6245037 20.8945942"></polygon>
+            <polygon id="Fill-3" fill="#FFEAA4" points="28.7603776 27.9488136 21.1596983 26.0009177 25.0588318 24.9544475 32.6584372 26.9034177"></polygon>
+            <polygon id="Fill-5" fill="#FFEAA4" points="23.4729766 35.9643029 15.8722973 34.0164071 20.2900981 32.8313386 27.8907774 34.7803088"></polygon>
+            <polygon id="Fill-7" fill="#FFEAA4" points="27.8904553 34.7803088 18.2113478 32.9630894 18.098594 13.2649523 27.7777015 15.0821718"></polygon>
+            <polygon id="Fill-9" fill="#FFEAA4" points="18.2463552 30.7675145 10.6456759 28.8196186 15.8344979 27.4282645 23.4351772 29.3761603"></polygon>
+            <polygon id="Fill-11" fill="url(#linearGradient-1)" fill-rule="nonzero" points="16.2003571 6.76445242 8.59967785 4.81655658 26.5629673 8.07354184e-13 34.1636466 1.94897025"></polygon>
+            <path d="M32.6588667,26.90374 L32.6245037,20.8945942 L28.7253702,21.9389156 L28.7608071,27.9491359 L32.6588667,26.90374 L32.6588667,26.90374 Z M27.8909922,34.7802014 L27.7771645,15.0820644 L23.3593637,16.2660584 L23.4001698,23.3582043 L18.2113478,24.7581537 L18.2467847,30.7672996 L23.4356067,29.3759454 L23.4731913,35.9641955 L27.8909922,34.7802014 L27.8909922,34.7802014 Z M34.1633244,1.94854049 L43,20.2241656 L34.4006443,43.1841955 L16.4373548,47.9996777 L7.60067927,29.7154573 L16.200035,6.76402266 L34.1633244,1.94854049 Z" id="Fill-13" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+            <polygon id="Fill-15" fill="url(#linearGradient-3)" fill-rule="nonzero" points="7.60014235 29.715135 0.000536922809 27.7661648 8.59989262 4.81580449 16.2005719 6.76477474"></polygon>
+            <polygon id="Fill-17" fill="url(#linearGradient-4)" fill-rule="nonzero" points="16.4373548 48 8.83667557 46.0521042 4.97379915e-14 27.765735 7.60067927 29.7147052"></polygon>
+        </g>
+    </g>
+</svg>
