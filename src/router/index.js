@@ -8,7 +8,7 @@
  */
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
+// import HelloWorld from '@/components/HelloWorld'
 
 Vue.use(Router)
 
@@ -16,8 +16,16 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld,
-    },
+      redirect: 'example'
+    }, {
+      path: '/example',
+      component: resolve => require(['@/components/page/example/index.vue'], resolve),
+    }, {
+      path: '/HelloWorld',
+      component: resolve => require(['@/components/HelloWorld.vue'], resolve),
+    }, {
+      path: '/mergeTable',
+      component: resolve => require(['@/components/page/mergeTable/index.vue'], resolve),
+    }
   ]
 })

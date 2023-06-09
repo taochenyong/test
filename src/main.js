@@ -15,13 +15,6 @@ Vue.config.productionTip = false
 import jquery from "jquery";
 Vue.prototype.$ = jquery;
 
-import LCharts from '@vislab/LCharts'
-
-Vue.use(LCharts)
-
-import marquee from 'marquee-components'
-Vue.use(marquee );
-
 import ringDiagram from '@wide/stibizviscomps-ringdiagram'
 Vue.use(ringDiagram)
 import bizcharts from '@wide/stibizviscomps-bizcharts'
@@ -37,6 +30,16 @@ import SeachTableList from '@wide/stiviscomponents-searchtablelist'
 Vue.use(SeachTableList)
 import bizVisScroll from '@wide/stibizviscomps-scroll'
 Vue.use(bizVisScroll)
+
+
+const PROPERTY = {
+  "--FS16px": "16px",
+  "--FS18px": "18px",
+  "--FS40px": "40px",
+}
+for (let key in PROPERTY) {
+  document.body.style.setProperty(key, PROPERTY[key]);
+}
 
 /* eslint-disable no-new */
 new Vue({
