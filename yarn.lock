@@ -1460,6 +1460,13 @@
   "resolved" "https://registry.npm.qianxin-inc.cn/async-validator/download/async-validator-1.12.2.tgz"
   "version" "1.12.2"
 
+"async-validator@~1.8.1":
+  "integrity" "sha512-tXBM+1m056MAX0E8TL2iCjg8WvSyXu0Zc8LNtYqrVeyoL3+esHRZ4SieE9fKQyyU09uONjnMEjrNBMqT0mbvmA=="
+  "resolved" "https://registry.npmmirror.com/async-validator/-/async-validator-1.8.5.tgz"
+  "version" "1.8.5"
+  dependencies:
+    "babel-runtime" "6.x"
+
 "async@^2.1.2", "async@^2.4.1", "async@^2.6.2":
   "integrity" "sha1-1yYl4jRKNlbjo61Pp0n6gymdgv8="
   "resolved" "https://registry.npm.qianxin-inc.cn/async/download/async-2.6.3.tgz"
@@ -2094,7 +2101,7 @@
     "mkdirp" "^0.5.1"
     "source-map-support" "^0.4.15"
 
-"babel-runtime@^6.18.0", "babel-runtime@^6.22.0", "babel-runtime@^6.26.0":
+"babel-runtime@^6.18.0", "babel-runtime@^6.22.0", "babel-runtime@^6.26.0", "babel-runtime@6.x":
   "integrity" "sha1-llxwWGaOgrVde/4E/yM3vItWR/4="
   "resolved" "https://registry.npm.qianxin-inc.cn/babel-runtime/download/babel-runtime-6.26.0.tgz"
   "version" "6.26.0"
@@ -3392,7 +3399,7 @@
     "object-keys" "^1.1.1"
     "regexp.prototype.flags" "^1.2.0"
 
-"deepmerge@^1.5.1":
+"deepmerge@^1.2.0", "deepmerge@^1.5.1":
   "integrity" "sha1-EEmdhohEza1P7ghC34x/bwyVp1M="
   "resolved" "https://registry.npm.qianxin-inc.cn/deepmerge/download/deepmerge-1.5.2.tgz"
   "version" "1.5.2"
@@ -3626,6 +3633,18 @@
   "integrity" "sha1-ehz4U++v3ixM9uhvrPPleS01QaU="
   "resolved" "https://registry.npm.qianxin-inc.cn/electron-to-chromium/download/electron-to-chromium-1.4.78.tgz"
   "version" "1.4.78"
+
+"element-ui@^2.15.13":
+  "integrity" "sha512-LJoatEYX6WV74FqXBss8Xfho9fh9rjDSzrDrTyREdGb1h1R3uRvmLh5jqp2JU137aj4/BgqA3K06RQpQBX33Bg=="
+  "resolved" "https://registry.npmjs.org/element-ui/-/element-ui-2.15.13.tgz"
+  "version" "2.15.13"
+  dependencies:
+    "async-validator" "~1.8.1"
+    "babel-helper-vue-jsx-merge-props" "^2.0.0"
+    "deepmerge" "^1.2.0"
+    "normalize-wheel" "^1.0.1"
+    "resize-observer-polyfill" "^1.5.0"
+    "throttle-debounce" "^1.0.1"
 
 "elliptic@^6.5.3":
   "integrity" "sha1-2jfOvTHnmhNn6UG1ku0fvr1Yq7s="
@@ -4301,6 +4320,11 @@
     "ignore" "^3.3.5"
     "pify" "^3.0.0"
     "slash" "^1.0.0"
+
+"gojs@^2.2.21":
+  "integrity" "sha1-cDq2X18yewnYNmbV6wt9wVSJ9nE="
+  "resolved" "https://registry.npm.qianxin-inc.cn/gojs/download/gojs-2.2.21.tgz"
+  "version" "2.2.21"
 
 "graceful-fs@^4.1.11", "graceful-fs@^4.1.2":
   "integrity" "sha1-BBsF30V1Xlh6JJQiebnRExRuHJY="
@@ -5755,6 +5779,11 @@
   "integrity" "sha1-suHE3E98bVd0PfczpPWXjRhlBVk="
   "resolved" "https://registry.npm.qianxin-inc.cn/normalize-url/download/normalize-url-3.3.0.tgz"
   "version" "3.3.0"
+
+"normalize-wheel@^1.0.1":
+  "integrity" "sha512-1OnlAPZ3zgrk8B91HyRj+eVv+kS5u+Z0SCsak6Xil/kmgEia50ga7zfkumayonZrImffAxPU/5WcyGhzetHNPA=="
+  "resolved" "https://registry.npmmirror.com/normalize-wheel/-/normalize-wheel-1.0.1.tgz"
+  "version" "1.0.1"
 
 "npm-run-path@^2.0.0":
   "integrity" "sha1-NakjLfo11wZ7TLLd8jV7GHFTbF8="
@@ -7374,6 +7403,11 @@
   "resolved" "https://registry.npm.qianxin-inc.cn/requires-port/download/requires-port-1.0.0.tgz"
   "version" "1.0.0"
 
+"resize-observer-polyfill@^1.5.0":
+  "integrity" "sha512-LwZrotdHOo12nQuZlHEmtuXdqGoOD0OhaxopaNFxWzInpEgaLWoVuAMbTzixuosCx2nEG58ngzW3vxdWoxIgdg=="
+  "resolved" "https://registry.npmmirror.com/resize-observer-polyfill/-/resize-observer-polyfill-1.5.1.tgz"
+  "version" "1.5.1"
+
 "resolve-cwd@^2.0.0":
   "integrity" "sha1-AKn3OHVW4nA46uIyyqNypqWbZlo="
   "resolved" "https://registry.npm.qianxin-inc.cn/resolve-cwd/download/resolve-cwd-2.0.0.tgz"
@@ -8525,7 +8559,7 @@
   "resolved" "https://registry.npm.qianxin-inc.cn/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz"
   "version" "1.9.1"
 
-"vue@^2.5.2":
+"vue@^2.5.17", "vue@^2.5.2":
   "integrity" "sha1-5RqlJQJQ1Wmj+606ilpofWA24jU="
   "resolved" "https://registry.npm.qianxin-inc.cn/vue/download/vue-2.6.14.tgz"
   "version" "2.6.14"

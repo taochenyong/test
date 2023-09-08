@@ -6,6 +6,7 @@
           <th v-for="(item, index) in columns" :key="index" :style="`width: ${item.width}px;`">{{ item.title}}</th>
         </tr>
       </thead>
+      <!-- 合并项需要用到数据处理 -->
       <tbody>
         <tr v-for="(item, index) in data" :key="index">
           <td v-for="key in columns" :key="key.name" @click="handerClick(item, key)">
@@ -17,6 +18,7 @@
               </div>
             </div>
             <div v-else>{{ item[key.key] }}</div>
+            <slot></slot>
         </td>
         </tr>
       </tbody>
@@ -59,9 +61,7 @@ export default {
           time: "2023-02-13",
           name: "名称2",
           fileList: [
-            { name: "文件名称21", level: "1" },
-            { name: "文件名称22", level: "1" },
-            { name: "文件名称23", level: "1" },
+            { name: "文件名称21", level: "1" }, { name: "文件名称22", level: "1" }, { name: "文件名称23", level: "1" },
           ],
         },
         {
@@ -83,8 +83,7 @@ export default {
           time: "2023-02-13",
           name: "名称6",
           fileList: [
-            { name: "文件名称61", level: "1" },
-            { name: "文件名称62", level: "1" },
+            { name: "文件名称61", level: "1" },{ name: "文件名称62", level: "1" },
           ],
         },
       ]
@@ -93,24 +92,27 @@ export default {
   mounted() {},
   computed: {
     setData() {
+      // 处理数据结构
         this.data.forEach((item, index) => {
-            item.fileList.forEach(ins => {
-                arrs[ins] = {}
-                arrs[ins].time = item.time,
-                arrs[ins].name = item.name,
-                arrs[ins].fileName = ins.name,
-                arrs[ins].fileLevel = ins.level
-            })
-           console.log('arrs', arrs)
+            // item.fileList.forEach(ins => {
+            //     arrs[ins] = {}
+            //     arrs[ins].time = item.time,
+            //     arrs[ins].name = item.name,
+            //     arrs[ins].fileName = ins.name,
+            //     arrs[ins].fileLevel = ins.level
+            // })
+            let tep = [].includes(str)
         })
+
+        // 在elementUI的基础上封装一个
     }
   },
   methods: {
     handerClick(parentRow, colItem) {
-      
-      console.log(parentRow, colItem, 'colItem==colItem', parentRow[colItem.key])
       if(Array.isArray(parentRow[colItem.key])) {
-        console.log('22222数组时候执行')
+        console.log('数组时候执行')
+        // rander函数
+        
       }
     },
   },

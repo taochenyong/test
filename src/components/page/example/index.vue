@@ -7,7 +7,7 @@
             </div>
         </div>
         <!-- 具体的示例 属性方法等 https://blog.csdn.net/DreamJie123/article/details/88345492 -->
-        <div class="marquee-width-300" style="width: 200px;">
+        <div class="marquee-width-300" style="width: 200px;"> 
             <marquee>测试横向滚动</marquee>
         </div>
 

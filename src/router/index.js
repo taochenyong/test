@@ -26,6 +26,12 @@ export default new Router({
     }, {
       path: '/mergeTable',
       component: resolve => require(['@/components/page/mergeTable/index.vue'], resolve),
+    }, {
+      path: '/elTable',
+      component: resolve => require(['@/components/page/elTable/index.vue'], resolve),
+    }, {
+      path: '/gojs',
+      component: resolve => require(['@/components/page/gojs/index.vue'], resolve),
     }
   ]
 })

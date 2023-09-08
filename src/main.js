@@ -31,6 +31,10 @@ Vue.use(SeachTableList)
 import bizVisScroll from '@wide/stibizviscomps-scroll'
 Vue.use(bizVisScroll)
 
+import ElementUI from 'element-ui';
+import 'element-ui/lib/theme-chalk/index.css';
+Vue.use(ElementUI);
+
 
 const PROPERTY = {
   "--FS16px": "16px",
